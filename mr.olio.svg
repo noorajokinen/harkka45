@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="297mm" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="mr.olio.svg" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+	<sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="400" inkscape:cy="560" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.35" pagecolor="#ffffff" showgrid="false"/>
+	<g inkscape:groupmode="layer" inkscape:label="Layer 1">
+		<g transform="matrix(.50388 0 0 .5107 324.98 77.635)">
+			<circle cx="-446.16" cy="13.593" r="123.6" fill="#fb92a8"/>
+			<g transform="translate(-329.37 -37.344)">
+				<g transform="matrix(1.1586 0 0 1.1172 -458.03 -13.224)">
+					<g transform="translate(0 2.2679)">
+						<circle cx="221.12" cy="39.598" r="54.807" fill="#fb92a8"/>
+					</g>
+					<g transform="matrix(1 0 0 1.019 -4.8808e-8 .77205)">
+						<ellipse cx="221.49" cy="38.842" rx="41.577" ry="39.687" fill="#fff"/>
+					</g>
+				</g>
+				<circle cx="-202.6" cy="33.173" r="19.655"/>
+				<circle cx="-195.04" cy="27.881" r="6.8036" fill="#fffff9"/>
+			</g>
+			<g transform="translate(-163.81 -40.368)">
+				<g transform="matrix(1.1586 0 0 1.1172 -458.03 -13.224)">
+					<g transform="translate(0 2.2679)">
+						<circle cx="221.12" cy="39.598" r="54.807" fill="#fb92a8"/>
+					</g>
+					<g transform="matrix(1 0 0 1.019 -4.8808e-8 .77205)">
+						<ellipse cx="221.49" cy="38.842" rx="41.577" ry="39.687" fill="#fff"/>
+					</g>
+				</g>
+				<circle cx="-202.6" cy="33.173" r="19.655"/>
+				<circle cx="-195.04" cy="27.881" r="6.8036" fill="#fffff9"/>
+			</g>
+			<g fill="#e133a8">
+				<path d="m-474.05-71.826c-4.7486 6.5095-12.053 8.8581-20.558 8.8581-8.5051-2e-6 -32.926-6.4222-34.313-9.7178 0 0 21.611-8.7549 35.84-8.282 18.649 0.61982 21.361 5.9473 19.031 9.1417z" inkscape:connector-curvature="0" inkscape:transform-center-x="-3.7417734" sodipodi:nodetypes="sscss"/>
+				<path d="m-417.53-72.569c4.977-6.8225 12.632-9.2841 21.547-9.2841 8.9141 2e-6 34.509 6.7311 35.963 10.185 0 0-22.651 9.1759-37.563 8.6803-19.546-0.64962-22.389-6.2333-19.946-9.5813z" inkscape:connector-curvature="0" sodipodi:nodetypes="sscss"/>
+				<path d="m-381 94.262c-7.8 9.6384-29.484 22.451-65.855 22.451s-58.115-12.764-65.855-22.451c-21.96-27.48 37.157-18.746 66.649-17.953 36.358 0.97854 90.726-13.761 65.061 17.953z" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+			</g>
+			<g>
+				<path d="m-405.76 84.374c-6.854 2.5947-14.547 10.075-41.03 10.075-26.483 0-29.236-4.3711-36.166-6.5884-62.388-19.962 17.702-11.793 39.176-11.368 26.474 0.52459 89.261-11.517 38.02 7.8813z" fill="#fff" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+				<path d="m-316.21 77.208c-18.708 2.311-30.955 1.1058-45.848-4.41-14.893-5.5158-15.447-9.9712-12.612-19.081 2.8355-9.1093 5.0014-11.638 19.894-6.1219 14.893 5.5158 47.328 28.53 38.565 29.612z" fill="#9a32bb" stroke="#6b0082" stroke-width=".27797" inkscape:connector-curvature="0" inkscape:transform-center-x="-54.200901" inkscape:transform-center-y="11.497329" sodipodi:nodetypes="sssss"/>
+				<path d="m-570.53 81.552c12.657-15.465 22.791-23.697 37.869-30.888 15.078-7.1907 18.53-4.4992 22.568 3.9429 4.0383 8.4421 4.1105 11.806-10.968 18.997-15.078 7.1907-55.398 15.192-49.469 7.9476z" fill="#9a32bb" stroke="#6b0082" stroke-width=".28255" inkscape:connector-curvature="0" sodipodi:nodetypes="sssss"/>
+			</g>
+		</g>
+	</g>
+</svg>
